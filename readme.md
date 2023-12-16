@@ -1,6 +1,6 @@
-<img width="3000p" src="https://github.com/Rainy1501/Rainy1501/blob/2938e934889fddd51a996ef6d05abd6a45b634c4/gif/Title.gif">
+<img width="3000p" src="https://github.com/Rainy1502/Rainy1502/blob/main/gif/Title.gif">
 
- <img src="https://github.com/Rainy1501/Rainy1501/blob/d7675a9997ab0be8e6f5760e3bfdb957be187353/gif/hoshimachi-suisei-animation.gif" align="right" width="300">
+ <img src="https://github.com/Rainy1502/Rainy1502/blob/2710f6d380e9be1f1009e9e3c73c1bec4bfeb70b/gif/hoshimachi-suisei-animation.gif" align="right" width="300">
 <p align="right"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yesteryear&size=28&duration=3500&pause=200&color=00F70E&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile;Enjoy+your+stay+around+here+:)" alt="Typing SVG" /></a> </h1>
 <p/>
 
