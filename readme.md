@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats:
 <table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=Rainy1501&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rainy1501&theme=chartreuse-dark&hide_border=false"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=Rainy1502&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rainy1502&theme=chartreuse-dark&hide_border=false"></td>
     <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainy1502&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
   </tr>
 </table>
