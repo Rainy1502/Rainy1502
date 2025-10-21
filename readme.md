@@ -46,12 +46,6 @@
 
 ***<h1 align="center">Words of the day</h1>***
 <div align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<br>
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rainy1501}/count.svg" /></p> 
-<br>
 </div>
 
 
